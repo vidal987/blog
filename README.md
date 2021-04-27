@@ -1,8 +1,8 @@
-<center>  <h1>Blog 📚</h1>  </center>
+ # Blog 📚
 
 ### ☑️ To-Do 
 
-- [ ] Modelagem de requisitos
+- [x] Modelagem de requisitos
 - [ ] Organizar Arquitetura
 - [ ] Modelo Relacional
 - [ ] Login/Autenticação 
